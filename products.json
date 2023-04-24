@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "6446dd2bee84da4386279a22",
+    "name": "Impressora",
+    "quantity": 0,
+    "price": 649.5,
+    "createdAt": "2023-04-24T19:48:59.944Z",
+    "updatedAt": "2023-04-24T19:48:59.944Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446dd2bee84da4386279a25",
+    "name": "Tesoura",
+    "quantity": 1,
+    "price": 19.99,
+    "createdAt": "2023-04-24T19:48:59.945Z",
+    "updatedAt": "2023-04-24T19:48:59.945Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446dd2bee84da4386279a24",
+    "name": "Lapis",
+    "quantity": 3,
+    "price": 5.8,
+    "createdAt": "2023-04-24T19:48:59.944Z",
+    "updatedAt": "2023-04-24T19:48:59.944Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446dd2bee84da4386279a23",
+    "name": "Caderno",
+    "quantity": 4,
+    "price": 27.1,
+    "createdAt": "2023-04-24T19:48:59.944Z",
+    "updatedAt": "2023-04-24T19:48:59.944Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446dd2bee84da4386279a28",
+    "name": "Teclado",
+    "quantity": 1,
+    "price": 319.99,
+    "createdAt": "2023-04-24T19:48:59.945Z",
+    "updatedAt": "2023-04-24T19:48:59.945Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446dd2bee84da4386279a29",
+    "name": "Apontador",
+    "quantity": 1,
+    "price": 15.99,
+    "createdAt": "2023-04-24T19:48:59.945Z",
+    "updatedAt": "2023-04-24T19:48:59.945Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446dd2bee84da4386279a2a",
+    "name": "fone de ouvido",
+    "quantity": 1,
+    "price": 119.99,
+    "createdAt": "2023-04-24T19:48:59.945Z",
+    "updatedAt": "2023-04-24T19:48:59.945Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446dd2bee84da4386279a26",
+    "name": "Borracha",
+    "quantity": 3,
+    "price": 9.99,
+    "createdAt": "2023-04-24T19:48:59.945Z",
+    "updatedAt": "2023-04-24T19:48:59.945Z",
+    "__v": 0
+  },
+  {
+    "_id": "6446dd2bee84da4386279a27",
+    "name": "Mause",
+    "quantity": 1,
+    "price": 219.99,
+    "createdAt": "2023-04-24T19:48:59.945Z",
+    "updatedAt": "2023-04-24T19:48:59.945Z",
+    "__v": 0
+  }
+]
